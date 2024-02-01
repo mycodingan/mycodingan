@@ -26,9 +26,7 @@ Hi, let me introduce myself, my name is Joshua, I have skills in the web develop
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mycodingan&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
