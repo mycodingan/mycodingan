@@ -1,5 +1,5 @@
-<h1>👋👋Hello My name Joshua Wahyu</h1> 
-# 💫 About Me:
+<center><h1>👋👋Hello My name Joshua Wahyu</h1></center>
+<h3>💫 About Me</h3>
 Hi, let me introduce myself, my name is Joshua, I have skills in the web development section<br>has the nickname mycodingan or myco. I want to develop my skills with<br>keep uploading projects on git hub from every programming that I learn. I'm originally from Semarang<br>enough introduction from me, thank you
 
 
