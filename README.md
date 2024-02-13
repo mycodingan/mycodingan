@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="500"/></p>
 
 <h1 align="center">👋👋Hello My name Joshua Wahyu👋</h1>
 <h3 align="center">💫 About Me</h3>
