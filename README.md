@@ -14,7 +14,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=mycodingan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 # 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mycodingan&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mycodingan&theme=merko&border_radius=80&card_width=545)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mycodingan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mycodingan&show_icons=true&locale=en" alt="mycodingan" /></p>
 
