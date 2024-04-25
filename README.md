@@ -18,15 +18,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mycodingan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mycodingan&show_icons=true&locale=en" alt="mycodingan" /></p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mycodingan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 <p align="center"><img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" width="800"/></p> <p align="center"><img src="https://user-images.githubusercontent.com/44881353/140799350-00330555-c5d9-42cc-99d6-b8ef3683c55f.png" width="200"/></p>
