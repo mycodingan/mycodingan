@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=mycodingan&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-<p align="center"><img src="https://github.githubassets.com/assets/profile-first-pr-dark-bc160471dcac.svg" width="800"/></p> <p align="center"><img src="https://user-images.githubusercontent.com/44881353/140799350-00330555-c5d9-42cc-99d6-b8ef3683c55f.png" width="200"/></p>
+
 
 
 
